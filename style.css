@@ -1,0 +1,16 @@
+
+body {
+    padding: 15px;
+    text-align: center;
+}
+
+.header{
+    display: block;
+    display: inline-block;
+}
+
+.btn{
+    border: 1px black solid;
+    margin: 10px;
+}
+
