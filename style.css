@@ -1,16 +1,20 @@
 
 body {
     padding: 15px;
+    background-color: #8ECAE6;
     text-align: center;
 }
 
 .header{
-    display: block;
-    display: inline-block;
+    display: inline;
 }
+
+
+
 
 .btn{
     border: 1px black solid;
-    margin: 10px;
+    margin: 5px;
+    background-color: #FFB703;
 }
 
